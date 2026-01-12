@@ -18,9 +18,6 @@ The website focuses on clean layout, readable typography, and structured content
 - **CSS3** – Styling and layout  
 
 ## Project Structure
-
-
-## Project Structure
 tribute_website/
 │
 ├── index.html
